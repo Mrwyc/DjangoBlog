@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>吴永聪的博客</title>
+	<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+	<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+{% block content %}
+<div class="posts">
+    {% for post in post_list %}
+        <section class="post">
+            <div class="panel panel-success">
+                <div class="panel-heading">
+                    <h2 class="post-title"><a href="{% url 'blog_detail' id=post.id %}">{{ post.title }}</a></h2>
+                </div>
+            </div>
+        </section>
+    {% endfor %}
+</div>
+</html>
+{% endblock %}
