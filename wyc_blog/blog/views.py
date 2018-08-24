@@ -6,6 +6,7 @@ from blog.models import *
 from datetime import datetime
 from django.http import Http404
 from utils import pagination
+from blog import form
 
 
 # Create your views here.
@@ -36,11 +37,27 @@ def Detail(request, id):
 def testpage(requ):
     return render_to_response('home_chajian.html')
 
-from blog import form
-def add_article(request):
-    obj = form.Class_Text()
 
-    return render(request, 'add_wenzhang.html', {'obj':obj})
+@csrf_protect
+def add_article(request):
+    if request.method == 'POST':
+        title = request.POST.get('title')
+        f_class = request.POST.get('shop_type_quere')
+        content = request.POST.get('Content')
+        print("title", title)
+        print('f_class', f_class)
+        print('content', content)
+        if title and f_class and content:
+            data = {'title': title,
+                    'content': content,
+                    'category': BlogCtg.objects.get(id=int(f_class))}
+            BlogsPost.objects.create(**data)
+        return render_to_response('add_wenzhang.html')
+    else:
+        obj = form.Class_Text()
+        print('obj', obj)
+
+        return render(request, 'add_wenzhang.html', {'obj': obj})
 
 
 @csrf_protect

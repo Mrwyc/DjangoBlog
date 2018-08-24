@@ -2,29 +2,37 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<title>吴永聪的博客</title>
+    <meta charset="utf-8">
+    <title>吴永聪的博客</title>
     <link rel="icon" href='/static/wyc.png' type="image/x-icon"/>
-	<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	<script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
-	<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600|PT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600|PT+Serif:400,400italic' rel='stylesheet'
+          type='text/css'>
     <link rel="stylesheet" href="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/css/bootstrap.min.css">
 
 </head>
 {% block content %}
-<div >
-    <h1>添加博文</h1>
-    <span style="color: #7b8690; font-size: 15px">文章标题:</span>
-    <input  class="form-control" type="text" />
-    <div style="margin-top: 25px">
-        <span style=" color: #7b8690; font-size: 15px">文章分类:</span>
-       {{ obj }}
+    <div>
+        <h1>添加博文</h1>
+        <form action="/blog/add_article/" method="post">
+            {% csrf_token %}
+            <span style="color: #7b8690; font-size: 15px">文章标题:</span>
+            <input name="title" class="form-control" type="text"/>
+            <div style="margin-top: 25px">
+                <span style=" color: #7b8690; font-size: 15px">文章分类:</span>
+                {{ obj }}
+            </div>
+            <div style="margin-top: 25px">
+                <span style="color: #7b8690; font-size: 15px">文章内容: </span>
+                {% include 'Udetor.html' %}
+            </div>
+            <div>
+                <input type="submit" name="submit" value="发布文章"/>
+            </div>
+        </form>
+
     </div>
-    <div style="margin-top: 25px">
-        <span style="color: #7b8690; font-size: 15px">文章内容: </span>
-        {% include 'Udetor.html' %}
-    </div>
-</div>
-</html>
+    </html>
 {% endblock %}
