@@ -2,374 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0352621e-dcb2-41bd-9b29-3ad65d73b508" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/bootstrap/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/bootstrap/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/css/form-elements.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/less/animated.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/less/bordered-pulled.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/less/core.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/less/fixed-width.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/less/font-awesome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/less/icons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/less/larger.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/less/list.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/less/path.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/less/rotated-flipped.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/less/stacked.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/scss/_animated.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/scss/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/scss/_fixed-width.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/scss/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/scss/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/scss/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/scss/_path.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/scss/_stacked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/font-awesome/scss/font-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/ico/apple-touch-icon-114-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/ico/apple-touch-icon-144-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/ico/apple-touch-icon-57-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/ico/apple-touch-icon-72-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/ico/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/img/backgrounds/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/img/backgrounds/1@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/js/jquery-1.11.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/js/jquery-1.11.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/js/jquery-2.1.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/js/jquery.backstretch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/js/jquery.backstretch.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/js/placeholder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/assets/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/css/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/css/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/css/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/css/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/css/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/css/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/css/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/css/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/img/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/img/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/img/bgc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/img/single-post.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/js/modernizr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/btts/js/respond.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/Udetor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/add_wenzhang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/anchor/anchor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/attachment.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/attachment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/fileTypeImages/icon_chm.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/fileTypeImages/icon_default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/fileTypeImages/icon_doc.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/fileTypeImages/icon_exe.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/fileTypeImages/icon_jpg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/fileTypeImages/icon_mp3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/fileTypeImages/icon_mv.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/fileTypeImages/icon_pdf.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/fileTypeImages/icon_ppt.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/fileTypeImages/icon_psd.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/fileTypeImages/icon_rar.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/fileTypeImages/icon_txt.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/fileTypeImages/icon_xls.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/images/alignicon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/images/alignicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/images/file-icons.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/images/file-icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/images/icons.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/images/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/images/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/images/progress.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/images/success.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/attachment/images/success.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/background/background.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/background/background.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/background/background.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/background/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/background/images/success.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/charts/chart.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/charts/charts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/charts/charts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/charts/charts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/charts/images/charts0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/charts/images/charts1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/charts/images/charts2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/charts/images/charts3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/charts/images/charts4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/charts/images/charts5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/emotion/emotion.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/emotion/emotion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/emotion/emotion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/emotion/images/0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/emotion/images/bface.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/emotion/images/cface.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/emotion/images/fface.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/emotion/images/jxface2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/emotion/images/neweditor-tab-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/emotion/images/tface.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/emotion/images/wface.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/emotion/images/yface.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/gmap/gmap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/help/help.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/help/help.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/help/help.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/image/image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/image/image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/image/image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/image/images/alignicon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/image/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/image/images/icons.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/image/images/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/image/images/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/image/images/progress.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/image/images/success.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/image/images/success.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/insertframe/insertframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/internal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/link/link.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/map/map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/map/show.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/music/music.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/music/music.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/music/music.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/preview/preview.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/scrawl/images/addimg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/scrawl/images/brush.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/scrawl/images/delimg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/scrawl/images/delimgH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/scrawl/images/empty.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/scrawl/images/emptyH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/scrawl/images/eraser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/scrawl/images/redo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/scrawl/images/redoH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/scrawl/images/scale.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/scrawl/images/scaleH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/scrawl/images/size.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/scrawl/images/undo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/scrawl/images/undoH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/scrawl/scrawl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/scrawl/scrawl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/scrawl/scrawl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/searchreplace/searchreplace.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/searchreplace/searchreplace.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/snapscreen/snapscreen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/spechars/spechars.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/spechars/spechars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/table/dragicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/table/edittable.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/table/edittable.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/table/edittable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/table/edittd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/table/edittip.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/template/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/template/images/bg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/template/images/pre0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/template/images/pre1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/template/images/pre2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/template/images/pre3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/template/images/pre4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/template/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/template/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/template/template.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/video/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/video/images/center_focus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/video/images/file-icons.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/video/images/file-icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/video/images/icons.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/video/images/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/video/images/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/video/images/left_focus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/video/images/none_focus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/video/images/progress.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/video/images/right_focus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/video/images/success.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/video/images/success.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/video/video.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/video/video.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/video/video.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/webapp/webapp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/wordimage/fClipboard_ueditor.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/wordimage/imageUploader.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/wordimage/tangram.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/wordimage/wordimage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/dialogs/wordimage/wordimage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/en/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/en/images/addimage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/en/images/alldeletebtnhoverskin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/en/images/alldeletebtnupskin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/en/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/en/images/button.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/en/images/copy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/en/images/deletedisable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/en/images/deleteenable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/en/images/listbackground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/en/images/localimage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/en/images/music.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/en/images/rotateleftdisable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/en/images/rotateleftenable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/en/images/rotaterightdisable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/en/images/rotaterightenable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/en/images/upload.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/zh-cn/images/copy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/zh-cn/images/localimage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/zh-cn/images/music.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/zh-cn/images/upload.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/lang/zh-cn/zh-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/css/ueditor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/css/ueditor.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/dialogbase.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/anchor.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/arrow_down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/arrow_up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/button-bg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/cancelbutton.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/charts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/cursor_h.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/cursor_h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/cursor_v.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/cursor_v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/dialog-title-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/filescan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/highlighted.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/icons-all.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/icons.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/loaderror.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/lock.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/neweditor-tab-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/pagebreak.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/scale.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/sortable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/spacer.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/sparator_v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/table-cell-align.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/tangram-colorpicker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/toolbar_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/unhighlighted.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/upload.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/videologo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/word.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/default/images/wordpaste.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/themes/iframe.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/SyntaxHighlighter/shCore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/SyntaxHighlighter/shCoreDefault.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/codemirror/codemirror.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/codemirror/codemirror.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/adapters/mootools-adapter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/adapters/mootools-adapter.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/adapters/prototype-adapter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/adapters/prototype-adapter.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/adapters/standalone-framework.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/adapters/standalone-framework.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/highcharts-more.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/highcharts-more.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/highcharts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/highcharts.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/modules/annotations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/modules/annotations.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/modules/canvas-tools.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/modules/canvas-tools.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/modules/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/modules/data.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/modules/drilldown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/modules/drilldown.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/modules/exporting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/modules/exporting.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/modules/funnel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/modules/funnel.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/modules/heatmap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/modules/heatmap.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/modules/map.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/modules/map.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/modules/no-data-to-display.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/modules/no-data-to-display.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/themes/dark-blue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/themes/dark-green.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/themes/gray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/themes/grid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/highcharts/themes/skies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/jquery-1.10.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/jquery-1.10.2.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/snapscreen/UEditorSnapscreen.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/video-js/font/vjs.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/video-js/font/vjs.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/video-js/font/vjs.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/video-js/font/vjs.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/video-js/video-js.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/video-js/video-js.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/video-js/video-js.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/video-js/video.dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/video-js/video.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/webuploader/Uploader.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/webuploader/webuploader.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/webuploader/webuploader.custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/webuploader/webuploader.custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/webuploader/webuploader.flashonly.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/webuploader/webuploader.flashonly.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/webuploader/webuploader.html5only.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/webuploader/webuploader.html5only.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/webuploader/webuploader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/webuploader/webuploader.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/webuploader/webuploader.withoutimage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/webuploader/webuploader.withoutimage.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/zeroclipboard/ZeroClipboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/zeroclipboard/ZeroClipboard.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/third-party/zeroclipboard/ZeroClipboard.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/ueditor.all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/ueditor.all.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/ueditor.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/ueditor.parse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/UE/ueditor.parse.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/msyhbd.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/ueconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ueditor/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/static/jianto.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/youce.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wyc_blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/wyc_blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -427,34 +67,34 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="411" />
-          <entry key="py" value="218" />
-          <entry key="txt" value="21" />
+          <entry key="html" value="756" />
+          <entry key="py" value="492" />
+          <entry key="txt" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="411" />
-          <entry key="PLAIN_TEXT" value="21" />
-          <entry key="Python" value="218" />
+          <entry key="HTML" value="756" />
+          <entry key="PLAIN_TEXT" value="43" />
+          <entry key="Python" value="492" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="html" value="5" />
+          <entry key="html" value="8" />
           <entry key="js" value="4" />
           <entry key="png" value="2" />
-          <entry key="py" value="6" />
+          <entry key="py" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="5" />
+          <entry key="HTML" value="8" />
           <entry key="Image" value="2" />
           <entry key="JavaScript" value="4" />
-          <entry key="Python" value="6" />
+          <entry key="Python" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -465,8 +105,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="200">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
                 <marker date="1535083707435" expanded="true" signature="232:234" ph="..." />
@@ -478,22 +118,66 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="388">
+              <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-                <marker date="1535089801533" expanded="true" signature="1011:1016" ph="..." />
-                <marker date="1535089801533" expanded="true" signature="1090:1144" ph="..." />
+                <marker date="1535099197675" expanded="true" signature="1166:1171" ph="..." />
+                <marker date="1535099197675" expanded="true" signature="1581:1584" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="75" />
+            <state relative-caret-position="-127">
+              <caret line="77" column="6" lean-forward="true" selection-start-line="77" selection-start-column="6" selection-end-line="77" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#2830#2837#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/youce.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/add_wenzhang.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/form.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="16" />
+              <folding>
+                <element signature="e#44#68#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -501,8 +185,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+            <state relative-caret-position="225">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="29" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -527,8 +211,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -554,14 +238,16 @@
         <option value="$PROJECT_DIR$/templates/home_chajian.html" />
         <option value="$PROJECT_DIR$/wyc_blog/settings.py" />
         <option value="$PROJECT_DIR$/blog/models.py" />
-        <option value="$PROJECT_DIR$/templates/home.html" />
         <option value="$PROJECT_DIR$/templates/page.html" />
-        <option value="$PROJECT_DIR$/blog/urls.py" />
-        <option value="$PROJECT_DIR$/blog/views.py" />
         <option value="$PROJECT_DIR$/wyc_blog/urls.py" />
         <option value="$PROJECT_DIR$/templates/Udetor.html" />
-        <option value="$PROJECT_DIR$/templates/add_wenzhang.html" />
+        <option value="$PROJECT_DIR$/templates/youce.html" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/blog/urls.py" />
         <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/templates/add_wenzhang.html" />
+        <option value="$PROJECT_DIR$/blog/form.py" />
+        <option value="$PROJECT_DIR$/blog/views.py" />
       </list>
     </option>
   </component>
@@ -571,11 +257,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2584" />
+    <option name="y" value="106" />
+    <option name="width" value="1536" />
+    <option name="height" value="823" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -594,6 +280,11 @@
               <item name="wyc_blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="wyc_blog" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wyc_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wyc_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -684,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535084499300</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="富文本编辑器更换，添加博文页面添加。">
+      <created>1535094002593</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1535094002593</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -697,10 +395,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="2584" y="106" width="1536" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31836462" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32181573" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -735,7 +433,8 @@
     </ignored-roots>
     <MESSAGE value="添加分页" />
     <MESSAGE value="icon添加" />
-    <option name="LAST_COMMIT_MESSAGE" value="icon添加" />
+    <MESSAGE value="富文本编辑器更换，添加博文页面添加。" />
+    <option name="LAST_COMMIT_MESSAGE" value="富文本编辑器更换，添加博文页面添加。" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/wyc_blog/__init__.py">
@@ -820,17 +519,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-            <marker date="1535083707435" expanded="true" signature="232:234" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DjangoUeditor/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -859,36 +547,6 @@
     <entry file="file://$PROJECT_DIR$/blog/static/btts/js/respond.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wyc_blog/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
-          <folding>
-            <element signature="e#561#602#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#section#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/Udetor.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
@@ -899,38 +557,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/add_wenzhang.html">
+    <entry file="file://$PROJECT_DIR$/wyc_blog/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        <state relative-caret-position="287">
+          <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
           <folding>
-            <element signature="n#style#0;n#span#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#561#602#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/views.py">
+    <entry file="file://$PROJECT_DIR$/blog/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="225">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="29" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1535089801533" expanded="true" signature="1011:1016" ph="..." />
-            <marker date="1535089801533" expanded="true" signature="1090:1144" ph="..." />
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="75" />
+        <state relative-caret-position="-127">
+          <caret line="77" column="6" lean-forward="true" selection-start-line="77" selection-start-column="6" selection-end-line="77" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#2830#2837#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/youce.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+            <marker date="1535083707435" expanded="true" signature="232:234" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#44#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1535099197675" expanded="true" signature="1166:1171" ph="..." />
+            <marker date="1535099197675" expanded="true" signature="1581:1584" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/add_wenzhang.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
         </state>
       </provider>
     </entry>

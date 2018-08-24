@@ -16,20 +16,15 @@
 <div >
     <h1>添加博文</h1>
     <span style="color: #7b8690; font-size: 15px">文章标题:</span>
-    <input  class="form-control" type="text" style="width: 500px;height: 40px"/>
+    <input  class="form-control" type="text" />
     <div style="margin-top: 25px">
-        <span style="color: #7b8690; font-size: 15px">文章分类:</span>
-        <input  class="form-control" type="text" style="width: 500px;height: 40px"/>
+        <span style=" color: #7b8690; font-size: 15px">文章分类:</span>
+       {{ obj }}
     </div>
     <div style="margin-top: 25px">
         <span style="color: #7b8690; font-size: 15px">文章内容: </span>
         {% include 'Udetor.html' %}
     </div>
 </div>
-
-
-
-
-
 </html>
 {% endblock %}
