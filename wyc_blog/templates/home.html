@@ -10,15 +10,23 @@
 </head>
 {% block content %}
 <div class="posts">
-    {% for post in post_list %}
+    {% for post in blog_data %}
         <section class="post">
             <div class="panel panel-success">
                 <div class="panel-heading">
-                    <h2 class="post-title"><a href="{% url 'blog_detail' id=post.id %}">{{ post.title }}</a></h2>
+                    <h1 class="post-title"><a href="{% url 'blog_detail' id=post.id %}">{{ post.title }}</a></h1>
+                    <span style="font-size: 12px">发布时间: {{ post.timestamp }}</span><a class="post-category post-category-js" href="#">{{ post.category.name }}</a>
                 </div>
             </div>
+
         </section>
+
     {% endfor %}
 </div>
+    {{ post_list }}
+    <div> {% include 'page.html' %}</div>
+
+
+
 </html>
 {% endblock %}

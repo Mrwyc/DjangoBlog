@@ -8,6 +8,8 @@ from DjangoUeditor.models import UEditorField
 
 class BlogCtg(models.Model):
     name = models.CharField(max_length=100)
+    def __unicode__(self):
+        return self.name
 
 
 class BlogsPost(models.Model):
@@ -16,5 +18,8 @@ class BlogsPost(models.Model):
                            toolbars='besttome', filePath='uploads/mefile/')
     timestamp = models.DateTimeField(u"上传时间")          # 创建时间
     category = models.ForeignKey(BlogCtg,  blank=True, null=True)
+
+    def __unicode__(self):
+        return self.category.name
 
 
