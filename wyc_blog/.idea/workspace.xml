@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0352621e-dcb2-41bd-9b29-3ad65d73b508" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wyc_blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/wyc_blog/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,15 +62,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="905" />
-          <entry key="py" value="898" />
-          <entry key="txt" value="71" />
+          <entry key="py" value="950" />
+          <entry key="txt" value="85" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="905" />
-          <entry key="PLAIN_TEXT" value="71" />
-          <entry key="Python" value="898" />
+          <entry key="PLAIN_TEXT" value="85" />
+          <entry key="Python" value="950" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -82,7 +79,7 @@
           <entry key="html" value="14" />
           <entry key="js" value="4" />
           <entry key="png" value="2" />
-          <entry key="py" value="7" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -91,7 +88,7 @@
           <entry key="HTML" value="14" />
           <entry key="Image" value="2" />
           <entry key="JavaScript" value="4" />
-          <entry key="Python" value="7" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -115,13 +112,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="78" column="53" lean-forward="true" selection-start-line="78" selection-start-column="53" selection-end-line="78" selection-end-column="53" />
+            <state relative-caret-position="188">
+              <caret line="69" column="34" lean-forward="true" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-                <marker date="1535103252901" expanded="true" signature="1188:1193" ph="..." />
-                <marker date="1535103252901" expanded="true" signature="2780:2782" ph="..." />
+                <marker date="1535104633080" expanded="true" signature="1198:1203" ph="..." />
+                <marker date="1535104633080" expanded="true" signature="2832:2834" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/pagination.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -246,6 +252,7 @@
         <option value="$PROJECT_DIR$/blog/urls.py" />
         <option value="$PROJECT_DIR$/wyc_blog/urls.py" />
         <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/utils/pagination.py" />
         <option value="$PROJECT_DIR$/blog/views.py" />
       </list>
     </option>
@@ -284,6 +291,11 @@
               <item name="wyc_blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="wyc_blog" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wyc_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wyc_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -395,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535101539450</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="根据分类展示列表">
+      <created>1535103323010</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1535103323010</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -449,7 +468,8 @@
     <MESSAGE value="富文本编辑器更换，添加博文页面添加。" />
     <MESSAGE value="添加分类" />
     <MESSAGE value="页面样式，  添加文章" />
-    <option name="LAST_COMMIT_MESSAGE" value="页面样式，  添加文章" />
+    <MESSAGE value="根据分类展示列表" />
+    <option name="LAST_COMMIT_MESSAGE" value="根据分类展示列表" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/wyc_blog/__init__.py">
@@ -504,13 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/pagination.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-336">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
@@ -645,14 +658,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/utils/pagination.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="78" column="53" lean-forward="true" selection-start-line="78" selection-start-column="53" selection-end-line="78" selection-end-column="53" />
+        <state relative-caret-position="188">
+          <caret line="69" column="34" lean-forward="true" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <marker date="1535103252901" expanded="true" signature="1188:1193" ph="..." />
-            <marker date="1535103252901" expanded="true" signature="2780:2782" ph="..." />
+            <marker date="1535104633080" expanded="true" signature="1198:1203" ph="..." />
+            <marker date="1535104633080" expanded="true" signature="2832:2834" ph="..." />
           </folding>
         </state>
       </provider>
