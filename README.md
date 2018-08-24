@@ -9,3 +9,4 @@ python3.5+django1.8.4+mysql
 
 1， Admin添加文章， 集成DjangoUeditor
 2， 页面展示基础搭建
+3,  博文列表分页添加
