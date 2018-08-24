@@ -11,14 +11,11 @@ from utils import pagination
 
 def home(request):
     shop_list = BlogsPost.objects.all().order_by('-id')  # 获取全部的Article对象
-    print(shop_list)
     current_page = request.GET.get('p', 1)
     current_page = int(current_page)
     page_obj = pagination.Page(current_page, len(shop_list), 10 , 11)
     data = shop_list[page_obj.start:page_obj.end]
-    print("data",data)
     page_str = page_obj.page_str('/blog/home/post_list' % (data))
-    print("page_str",page_str)
     return render(request, 'home.html', {'page_str': page_str, 'blog_data': data})
 
 
