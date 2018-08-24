@@ -12,7 +12,7 @@ from blog import form
 # Create your views here.
 
 def home(request):
-    shop_list = BlogsPost.objects.all().order_by('-id')  # 获取全部的Article对象
+    shop_list = BlogsPost.objects.all().order_by('-id')
     txt_class = BlogCtg.objects.all().order_by('-id')
     current_page = request.GET.get('p', 1)
     current_page = int(current_page)
@@ -68,4 +68,16 @@ def classification(request):
             BlogCtg.objects.create(**{'name': name})
     return redirect('/blog/home/')
 
+
+def Class_list(request, id):
+    try:
+        shop_list = BlogsPost.objects.filter(category=id).order_by('-id')
+        current_page = request.GET.get('p', 1)
+        current_page = int(current_page)
+        page_obj = pagination.Page(current_page, len(shop_list), 10, 11)
+        data = shop_list[page_obj.start:page_obj.end]
+        page_str = page_obj.page_str('/blog/home/post_list' % (data))
+    except BlogsPost.DoesNotExist:
+        raise Http404
+    return render(request, 'home.html', {'page_str': page_str, 'blog_data': data, })
 

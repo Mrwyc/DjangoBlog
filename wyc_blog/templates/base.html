@@ -72,7 +72,7 @@
 <div class="div1">
     <ul style="list-style:none">
         {% for i in txt_class %}
-             <li><span style="color: black; font-size: 15px; margin-top: 5px">{{ i.name }}</span></li>
+            <li style="cursor:pointer;"><span style="color: black; font-size: 15px; margin-top: 5px"><a href="{% url 'class_list' id=i.id %}">{{ i.name }}</a></span></li>
         {% endfor %}
     </ul>
 </div>
