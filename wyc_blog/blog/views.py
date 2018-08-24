@@ -33,3 +33,9 @@ def Detail(request, id):
 
 def testpage(requ):
     return render_to_response('home_chajian.html')
+
+
+def add_article(request):
+    return render_to_response('add_wenzhang.html')
+
+
